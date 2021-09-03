@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @AshtonTheDeveloper
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java 
+- 🔭 I’m currently working on [Split](https://github.com/AshtonTheDeveloper/Split)
+- 💬 Ask me about **Split game engine**
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me discord System.Sys#2747
 
