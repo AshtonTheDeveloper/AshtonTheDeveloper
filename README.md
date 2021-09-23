@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashtonthedeveloper" alt="ashtonthedeveloper" /></a> </p>
 
-- 🔭 I’m currently working on [Split](https://github.com/AshtonTheDeveloper/Split)
+- 🔭 I’m currently working on *GTA
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on [Split](https://github.com/AshtonTheDeveloper/Split)
+- 👯 I’m looking to collaborate on Anything
 
 - 👨‍💻 All of my projects are available at [https:/github.com/AshtonTheDeveloper](https:/github.com/AshtonTheDeveloper)
 
