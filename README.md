@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashtonthedeveloper" alt="ashtonthedeveloper" /></a> </p>
 
-- 🔭 I’m currently working on **GTA**
+- 🔭 I’m currently working on **Plob**
 
 - 🌱 I’m currently learning **Java**
 
@@ -13,9 +13,9 @@
 
 - 👨‍💻 All of my projects are available at [https:/github.com/AshtonTheDeveloper](https:/github.com/AshtonTheDeveloper)
 
-- 💬 Ask me about **Split**
+- 💬 Ask me about **Programming**
 
-- 📫 How to reach me **discord @System.Sys#2747**
+- 📫 How to reach me **discord @Ashton.#0704**
 
 
 <h3 align="left">Languages and Tools:</h3>
